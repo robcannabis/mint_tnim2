@@ -34,7 +34,7 @@ client.on('ready', async () => {
   setInterval(() => {
     const moment = require('moment');
     const created = moment().format('YYYY-MM-DD HH:mm:ss ');
-    const change = ['https://cdn.discordapp.com/attachments/1083058673640808448/1218264568183263262/213111.gif?ex=6607084b&is=65f4934b&hm=fe84885bb674fd8d8a4b51bcfcab9e0f9e187c96c876a9d01c49bbd3c87d3a1b&']; //รูปใหญ่
+    const change = ['https://cdn.discordapp.com/attachments/1151530535441674390/1221672747604901928/meassaw.jpg?ex=66136e68&is=6600f968&hm=1bf1dd3ef679d46e1a7d5457c973e1945492be94848d289ad4d4fe85ba186dc3&']; //รูปใหญ่
      //const poop = ['https://cdn.discordapp.com/attachments/1114551993499918438/1122462459710681170/1095697715238797403.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460817977395/1095697740543049819.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460125921341/1095697719189844048.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1116029023957561425/1110570045454696509.gif']; // รูปเล็ก
     const change2 = [' ']; // ชื่อสลับ
     const yyyt = ['Roblox']; // ชื่อ button1
